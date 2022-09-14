@@ -1,0 +1,22 @@
+# A subset of "Blood Count" fields https://biobank.ndph.ox.ac.uk/showcase/label.cgi?id=100081 accesses 9/14/22
+#Field ID	Description
+30030	Haematocrit percentage
+30020	Haemoglobin concentration
+30300	High light scatter reticulocyte count
+30290	High light scatter reticulocyte percentage
+30280	Immature reticulocyte fraction
+30050	Mean corpuscular haemoglobin
+30060	Mean corpuscular haemoglobin concentration
+30040	Mean corpuscular volume
+30100	Mean platelet (thrombocyte) volume
+30260	Mean reticulocyte volume
+30270	Mean sphered cell volume
+30170	Nucleated red blood cell count
+30230	Nucleated red blood cell percentage
+30080	Platelet count
+30090	Platelet crit
+30110	Platelet distribution width
+30010	Red blood cell (erythrocyte) count
+30070	Red blood cell (erythrocyte) distribution width
+30250	Reticulocyte count
+30240	Reticulocyte percentage

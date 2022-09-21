@@ -1,1 +1,2 @@
 include: "rules/make_bed.smk"
+include: "rules/make_fasta.smk"
